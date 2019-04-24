@@ -1,0 +1,144 @@
+[19-Mar-2019 08:56:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[20-Mar-2019 09:04:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[21-Mar-2019 07:51:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[22-Mar-2019 07:56:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[23-Mar-2019 07:46:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[24-Mar-2019 07:47:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[25-Mar-2019 07:52:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[26-Mar-2019 07:59:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[27-Mar-2019 07:46:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[28-Mar-2019 08:12:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[29-Mar-2019 07:47:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[30-Mar-2019 07:50:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[31-Mar-2019 07:59:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[01-Apr-2019 07:45:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[02-Apr-2019 07:50:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[03-Apr-2019 07:53:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[04-Apr-2019 08:05:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[05-Apr-2019 08:26:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[06-Apr-2019 08:41:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[07-Apr-2019 07:54:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[08-Apr-2019 08:13:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[09-Apr-2019 07:33:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[10-Apr-2019 07:35:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[11-Apr-2019 07:30:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[12-Apr-2019 07:46:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[13-Apr-2019 07:27:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[14-Apr-2019 07:30:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[15-Apr-2019 07:24:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[16-Apr-2019 07:29:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[17-Apr-2019 07:30:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[18-Apr-2019 07:38:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[19-Apr-2019 07:35:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[20-Apr-2019 07:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[21-Apr-2019 07:18:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[22-Apr-2019 07:31:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4
+[23-Apr-2019 07:21:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_mod() in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/themes/motors/index.php on line 4

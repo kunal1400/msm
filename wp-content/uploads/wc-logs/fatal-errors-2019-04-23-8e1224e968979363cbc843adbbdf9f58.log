@@ -1,0 +1,30 @@
+2019-04-23T17:00:20+00:00 CRITICAL Uncaught Error: Call to undefined function prepare_demo() in /home/hd14bvn6scpd/public_html/wp-content/plugins/stm_importer/helpers/content.php:14
+Stack trace:
+#0 /home/hd14bvn6scpd/public_html/wp-content/plugins/stm_importer/stm_importer.php(37): stm_theme_import_content('car_rental')
+#1 /home/hd14bvn6scpd/public_html/wp-includes/class-wp-hook.php(286): stm_demo_import_content('')
+#2 /home/hd14bvn6scpd/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home/hd14bvn6scpd/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/hd14bvn6scpd/public_html/wp-admin/admin-ajax.php(99): do_action('wp_ajax_stm_dem...')
+#5 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/plugins/stm_importer/helpers/content.php on line 14
+
+2019-04-23T17:00:26+00:00 CRITICAL Uncaught Error: Call to undefined function prepare_demo() in /home/hd14bvn6scpd/public_html/wp-content/plugins/stm_importer/helpers/content.php:14
+Stack trace:
+#0 /home/hd14bvn6scpd/public_html/wp-content/plugins/stm_importer/stm_importer.php(37): stm_theme_import_content('car_rental')
+#1 /home/hd14bvn6scpd/public_html/wp-includes/class-wp-hook.php(286): stm_demo_import_content('')
+#2 /home/hd14bvn6scpd/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home/hd14bvn6scpd/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/hd14bvn6scpd/public_html/wp-admin/admin-ajax.php(99): do_action('wp_ajax_stm_dem...')
+#5 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/plugins/stm_importer/helpers/content.php on line 14
+
+2019-04-23T17:00:40+00:00 CRITICAL Uncaught Error: Call to undefined function prepare_demo() in /home/hd14bvn6scpd/public_html/wp-content/plugins/stm_importer/helpers/content.php:14
+Stack trace:
+#0 /home/hd14bvn6scpd/public_html/wp-content/plugins/stm_importer/stm_importer.php(37): stm_theme_import_content('car_rental')
+#1 /home/hd14bvn6scpd/public_html/wp-includes/class-wp-hook.php(286): stm_demo_import_content('')
+#2 /home/hd14bvn6scpd/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /home/hd14bvn6scpd/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/hd14bvn6scpd/public_html/wp-admin/admin-ajax.php(99): do_action('wp_ajax_stm_dem...')
+#5 {main}
+  thrown in /home/hd14bvn6scpd/public_html/wp-content/plugins/stm_importer/helpers/content.php on line 14
+
