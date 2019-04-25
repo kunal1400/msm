@@ -1,0 +1,4 @@
+2019-04-25T06:45:19+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1126770 bytes) in /opt/lampp/htdocs/msm/wp-includes/class-requests.php on line 752
+
+2019-04-25T07:10:58+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1126837 bytes) in /opt/lampp/htdocs/msm/wp-includes/class-requests.php on line 752
+
